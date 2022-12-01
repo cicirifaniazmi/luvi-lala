@@ -15,7 +15,7 @@ int pass;
     cout<<"\t\tPass     : ";cin>>pass;
     cout<<"\t\t===========================";
     cout<<endl<<endl;
-    if (user=="lala" && pass==12345)
+    if (user=="CICI" && pass==12345)
     {
         menu();
     }
